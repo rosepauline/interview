@@ -1,0 +1,38 @@
+What is a file Adapter?
+File Adapter is one of the Oracle integration cloud adapters that helps to interact with the file system to read and write data on files. In addition, it also used to read/write file from a remote server. File adapter allows transferring of files to any publicly accessible server in either binary or ASCII format.
+
+What is DB Adaptor?
+Definition. A database connector is a software that connects an application to any database. A database adapter is an implementation of a database connector.
+
+What is FTP Adapter in OIC?
+The FTP Adapter enables the integration of servers supporting File Transfer Protocol (FTP) and Secure Shell (SSH) File Transfer Protocol (sFTP) into Oracle Integration. The connectivity agent must be used for the latter environment.
+
+What is a rest adapter?
+The Representational State Transfer (REST) adapter enables you to exchange messages between remote clients or web service servers and the Integration Server. It supports dynamic URLs, REST API polling, multiple operations per channel as well as XML and JSON data formats.
+
+What is SOAP adapter in OIC?
+The SOAP Adapter can consume an external SOAP API in an integration in Oracle Integration. The message received from Oracle Integration can be passed as payload to an external SOAP endpoint by the SOAP Adapter.
+
+What is the difference between file and FTP adapter in OIC?
+FTP adapter can read/write files from FTP/SFTP which are accessible over the internet however File
+adapter allows read/write files from FTP/SFTP which is behind the firewall.
+FTP adapter can’t poll files from the FTP server however File adapter has polling capability.
+
+What is Oracle Integration Cloud (OIC)?
+Oracle Integration Cloud (oic) is a Middleware platform offered by Oracle. This enables communication between multiple applications. All types of applications SaaS, on-premises can be integrated using OIC. OIC offers three applications:
+
+1. Integration Cloud Service (ICS)
+2. Process Cloud Service (PCS)
+3. Visual Builder Cloud Service (VBCS)
+
+What is App Driven Orchestration Pattern?
+App Driven Orchestration pattern is a multi-step pattern, that allows invoking multiple applications in a single flow, doing a for-each loop, if-else logic, applying complex logic, etc.
+
+What is a Scheduled Orchestration Pattern?
+Scheduled Orchestration pattern allows you to develop an integration that can run on a pre-defined frequency and can be executed on an Ad hoc basis.
+
+What is XSLT?
+XSLT (Extensible Stylesheet Language Transformations) is a language for transforming XML documents into other XML documents, or other formats such as HTML for web pages, plain text or XSL Formatting Objects, which may subsequently be converted to other formats, such as PDF, PostScript and PNG.
+
+What is XSD used for?
+The XML Schema definition language (XSD) enables you to define the structure and data types for XML documents. An XML Schema defines the elements, attributes, and data types that conform to the World Wide Web Consortium (W3C) XML Schema Part 1: Structures Recommendation for the XML Schema Definition Language
