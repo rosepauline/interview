@@ -1,0 +1,7 @@
+core java advanced java
+Mysql queries procedures
+microservices
+oracle db
+PLSQL
+ATP
+DBAAS
