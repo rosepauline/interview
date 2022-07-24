@@ -1,0 +1,72 @@
+1. Printlok:
+This application has multiple UserTypes. 
+The SuperAdmin can create employees and assign UserTypes within the organization.
+When an employee is registered, an email or sms will be sent to the user based on Authentication Type. 
+Except for the SuperAdmin role, every employee's location will be tracked using this application.
+We store the employee's workplace and capture the employee's location on a daily basis. 
+We do not track them after the logout time. Additionally, we do not track them when an employee's leave is approved.
+
+2. Project management:
+This application has multiple UserTypes. 
+The SuperAdmin and HR can create employees, add approvers, view timesheets of employees within the organization.
+When an employee is registered, an email with login credentials will be sent to their email address.
+The Team Leader can create multiple tasks, create projects, add timesheets, assign employees to projects and tasks,
+and assign tasks to projects, etc.
+The Employee can add tasks and timesheets.
+In the dashboard, we can see the task progress, project progress, task count, project count, Active projects, etc.
+
+3. Email Application:
+This application have Admin and User UserTypes.
+The admin can create users and an email with login credentials will be sent to their email address.
+The users can login to the application and send emails, receive emails, reply, reply with attachment, forward emails, 
+delete mails, view inbox mails, draft mails, sent mails, flagged mails, unread mails, spam mails, Trash mails etc.
+The users can also create Folder, move emails between folders, mark mails as important, mark mail as read or unread, etc.
+The users can also create signature, etc.
+This application supports domain based registration.
+
+4. Leave Management:
+This application has Manager, HR and Employee UserTypes.
+The manager and HR can create employees, view employees leaveRequest, 
+business Travel, work from home, permission details, approve or deny the request.
+The employee can Request for leave, work from home, business travel, permission, etc. 
+They can also send a request to withdraw leave once approved, they can cancel the leave before approval.
+On every request, approvals, denials, an email will be sent to the registered email address.
+
+5. EYETRAC - VEHICLE TRACKING WEB APPLICATION:
+Eyetrac is the GPS tracking software developed for Vehicle tracking and supports 
+more protocols. With Help of Eyetrac you can monitor your devices in real-time, It 
+Provides instant web notifications in cases of geo-fencing, over speed, Text Message, 
+Motion, Ignition. Eyetrac supports simple location history, trip and summary reports. 
+You can view data directly in the web and also export and download an Excel file. 
+History can also be projected on the map providing visual representation. 
+
+6. NURTURE FARM:
+Nurture farm is an application where farmers can sell their crops online.
+The user can be registered as a buyer, seller or both.
+The seller can a create listing based on the category provided.
+The buyer can buy these listing.
+The buyer or seller can create category, which will be approved or denied by the product owner of the application. 
+If approved, it will be listed in the category.
+Once the buyer wants to buy the listing he has to make a payment.
+
+7. LOCATO:(Track your store)
+Locato is a mobile application that enables local vendors to register and 
+customers can track their location details so that any customer can reach them easily.
+The user can register as a Normal user and Vendor, 
+Vendors can add the Business details, category details, items details.
+Normal users can directly visit the location based on the location provided in the app.
+So the customer doesn’t need to search for the location of what he needed.
+This app can be used in big expo as well to track the temporary stalls.
+If the vendor changes his shop location, then we can easily reach them.
+
+8. LARGE VIDEO UPLOADER:
+The Large Video Uploader allows users to upload and download large videos from a server based on their preferences.
+The Admin can upload the videos, the users can download them. 
+
+9. Integration Designer and Developer(Retail Domain):
+I have worked on the Sales Order.
+In order to create a Sales Order, we checked if there is a customer, and if there is no customer, we created a customer.
+Whenever we create a customer, there is something called a Party and Account. A Party can have multiple Accounts. 
+Party can be a Individual Person(consumer/end-user) or an Organization(customer)
+Every Party will have a partyId, partyNumber, partySiteId, partySiteNumber.
+Next, we checked if the item is in the inventory or not.We create a Sales Order if the item exists.

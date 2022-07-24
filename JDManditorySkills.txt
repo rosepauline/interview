@@ -1,0 +1,27 @@
+JD/Mandatory skills:
+
+Java technology stack of NAP.
+
+1.Server Side Language
+	Java SE 11 (LTS) -- Java SE 8
+	
+2.ServerSideFramework
+	Spring Boot 2.1, ---  Spring Boot 2.7.1
+	Spring Framework 5.1, --- Spring Framework 5.3.15(worked a long before)
+	Spring Cloud Zuul 2.1, 
+	Spring Cloud Eureka 2.1 --- have tried this
+
+3.ORM (Object Relational Mapping)
+	Hibernate 5.4 --- Hibernate 5.6.9.Final
+	
+4.Database
+	MS SQL  2016 --- MySQL
+	
+5.Java Build
+	Gradle 5.3.1 --- Maven 3.8.1
+	
+6.API Design Tools
+	Swagger Editor ---Used
+	
+	
+Apache Tomcat/9.0.45
