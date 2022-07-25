@@ -1,0 +1,10 @@
+I am Rose Pauline from Hosur. 
+I did my Bachelors in Electronics and Communication from BTL Institute of Technology and Management in the year 2015. 
+Currently, I am working with Jesperapps as a Software Engineer and have been working here for more than three years. 
+I have experiance in developing Restful webservices using spring boot, Hibernate, MySQL,Spring framework,Maven,etc.
+My responsibility includes database design and development, Team leading, code maintainance in git, 
+asssigning applications for testing, etc.
+I have a good knowledge of Spring boot restful webservices.
+I have worked on Project like Printlok, project management, leave management, email, which are on live.
+I am goal-oriented as I constantly strategise to achieve my targets. 
+The pressure of meeting targets motivates me to do better each time.
